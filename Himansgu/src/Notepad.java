@@ -36,6 +36,7 @@ public class Notepad implements ActionListener
     f.setLayout(null);
     f.setSize(500,500);
     f.setVisible(true);
+    /* Hi hhhhhhh*/
     } public void actionPerformed(ActionEvent e) 
     {
         if(e.getSource()==cut) ta.cut();
